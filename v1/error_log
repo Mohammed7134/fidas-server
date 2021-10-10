@@ -1,0 +1,107 @@
+[11-Sep-2021 06:55:06 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4294967296 bytes) in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 619
+[11-Sep-2021 06:55:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4294967296 bytes) in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 619
+[11-Sep-2021 06:57:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4294967296 bytes) in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 619
+[11-Sep-2021 06:57:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4294967296 bytes) in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 619
+[11-Sep-2021 06:57:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4294967296 bytes) in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 619
+[11-Sep-2021 06:58:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4294967296 bytes) in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 619
+[30-Sep-2021 18:36:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php:508
+Stack trace:
+#0 /home/y34fu103a2iy/public_html/FidasDevelopment/v1/searchMedicineLocation.php(16): DbOperations->searchMedicineLocation()
+#1 {main}
+  thrown in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 508
+[05-Oct-2021 04:15:14 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php:570
+Stack trace:
+#0 /home/y34fu103a2iy/public_html/FidasDevelopment/v1/adminPage.php(42): DbOperations->reportAction()
+#1 {main}
+  thrown in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 570
+[05-Oct-2021 04:18:38 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php:570
+Stack trace:
+#0 /home/y34fu103a2iy/public_html/FidasDevelopment/v1/adminPage.php(42): DbOperations->reportAction()
+#1 {main}
+  thrown in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 570
+[05-Oct-2021 04:21:27 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php:570
+Stack trace:
+#0 /home/y34fu103a2iy/public_html/FidasDevelopment/v1/adminPage.php(42): DbOperations->reportAction()
+#1 {main}
+  thrown in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 570
+[05-Oct-2021 04:22:16 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php:570
+Stack trace:
+#0 /home/y34fu103a2iy/public_html/FidasDevelopment/v1/adminPage.php(42): DbOperations->reportAction()
+#1 {main}
+  thrown in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 570
+[05-Oct-2021 04:23:28 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php:570
+Stack trace:
+#0 /home/y34fu103a2iy/public_html/FidasDevelopment/v1/adminPage.php(42): DbOperations->reportAction()
+#1 {main}
+  thrown in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 570
+[05-Oct-2021 06:00:30 UTC] PHP Warning:  Undefined array key "locations" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 570
+[05-Oct-2021 06:00:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 571
+[05-Oct-2021 06:00:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 572
+[05-Oct-2021 06:00:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 573
+[05-Oct-2021 06:00:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 574
+[05-Oct-2021 06:00:30 UTC] PHP Warning:  Undefined array key "id" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 575
+[05-Oct-2021 06:00:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php:577
+Stack trace:
+#0 /home/y34fu103a2iy/public_html/FidasDevelopment/v1/adminPage.php(42): DbOperations->reportAction()
+#1 {main}
+  thrown in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 577
+[05-Oct-2021 06:08:12 UTC] PHP Warning:  Undefined array key "locations" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 570
+[05-Oct-2021 06:08:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 571
+[05-Oct-2021 06:08:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 572
+[05-Oct-2021 06:08:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 573
+[05-Oct-2021 06:08:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 574
+[05-Oct-2021 06:08:12 UTC] PHP Warning:  Undefined array key "id" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 575
+[05-Oct-2021 06:08:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php:577
+Stack trace:
+#0 /home/y34fu103a2iy/public_html/FidasDevelopment/v1/adminPage.php(42): DbOperations->reportAction()
+#1 {main}
+  thrown in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 577
+[05-Oct-2021 06:12:29 UTC] PHP Warning:  Undefined array key "locations" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 570
+[05-Oct-2021 06:12:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 571
+[05-Oct-2021 06:12:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 572
+[05-Oct-2021 06:12:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 573
+[05-Oct-2021 06:12:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 574
+[05-Oct-2021 06:12:29 UTC] PHP Warning:  Undefined array key "id" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 575
+[05-Oct-2021 06:12:48 UTC] PHP Warning:  Undefined array key "locations" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 570
+[05-Oct-2021 06:12:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 571
+[05-Oct-2021 06:12:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 572
+[05-Oct-2021 06:12:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 573
+[05-Oct-2021 06:12:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 574
+[05-Oct-2021 06:12:48 UTC] PHP Warning:  Undefined array key "id" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 575
+[05-Oct-2021 06:13:30 UTC] PHP Warning:  Undefined array key "locations" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 570
+[05-Oct-2021 06:13:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 571
+[05-Oct-2021 06:13:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 572
+[05-Oct-2021 06:13:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 573
+[05-Oct-2021 06:13:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 574
+[05-Oct-2021 06:13:30 UTC] PHP Warning:  Undefined array key "id" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 575
+[08-Oct-2021 17:41:56 UTC] PHP Warning:  Undefined array key "locations" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 570
+[08-Oct-2021 17:41:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 571
+[08-Oct-2021 17:41:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 572
+[08-Oct-2021 17:41:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 573
+[08-Oct-2021 17:41:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 574
+[08-Oct-2021 17:41:56 UTC] PHP Warning:  Undefined array key "id" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 575
+[08-Oct-2021 17:48:21 UTC] PHP Warning:  Undefined array key "locations" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 570
+[08-Oct-2021 17:48:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 571
+[08-Oct-2021 17:48:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 572
+[08-Oct-2021 17:48:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 573
+[08-Oct-2021 17:48:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 574
+[08-Oct-2021 17:48:21 UTC] PHP Warning:  Undefined array key "id" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 575
+[08-Oct-2021 17:51:48 UTC] PHP Warning:  Undefined array key "locations" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 570
+[08-Oct-2021 17:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 571
+[08-Oct-2021 17:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 572
+[08-Oct-2021 17:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 573
+[08-Oct-2021 17:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 574
+[08-Oct-2021 17:51:48 UTC] PHP Warning:  Undefined array key "id" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 575
+[08-Oct-2021 17:53:20 UTC] PHP Warning:  Undefined array key "locations" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 570
+[08-Oct-2021 17:53:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 571
+[08-Oct-2021 17:53:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 572
+[08-Oct-2021 17:53:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 573
+[08-Oct-2021 17:53:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 574
+[08-Oct-2021 17:53:20 UTC] PHP Warning:  Undefined array key "id" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 575
+[08-Oct-2021 17:56:10 UTC] PHP Warning:  Undefined array key "locations" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 570
+[08-Oct-2021 17:56:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 571
+[08-Oct-2021 17:56:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 572
+[08-Oct-2021 17:56:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 573
+[08-Oct-2021 17:56:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 574
+[08-Oct-2021 17:56:10 UTC] PHP Warning:  Undefined array key "id" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 575
+[08-Oct-2021 18:00:23 UTC] PHP Warning:  Undefined array key "id" in /home/y34fu103a2iy/public_html/FidasDevelopment/includes/DbOperations.php on line 575

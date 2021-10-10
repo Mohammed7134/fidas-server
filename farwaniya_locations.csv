@@ -1,0 +1,437 @@
+id,ITEM NAME,LOCATION1,LOCATION2,LOCATION3,LOCATION4,pharmacy
+1, Adalimumab 40mg (Humira) Pen,BF09A,,,,Injection Store
+2, Adalimumab 40mg (Humira) Prefilled Syring,BF03A,BF01A,,,Injection Store
+3,Abelcet (Amphotericin Lipid Formulation) Injection,,,,,Injection Store
+4,Absolute Alcohol 100% Ampoule,SH13B,,,,Injection Store
+5,Acetazolamide 500mg (Diamox) Injection,SH01B,,,,Injection Store
+6,Acetylcholine 20mg/2ml (Miochol) Injection,,,,,Injection Store
+7,Acetylsysteine 2g/10ml (Parvolex) Iv Infusion,SH17A,,,,Injection Store
+8,Actrapid Cartridges 300iu/3ml,BF06C,,,,Injection Store
+9,Acyclovir 250mg (Zovirax) Iv Infusion,SH31C,,,,Injection Store
+10,Adenosine 30mg/10ml (Adenoscan) Vial,SH03D,,,,Injection Store
+11,Adenosine 6mg/2ml (Adenocor) Ampoule,SH03B,,,,Injection Store
+12,Adrenalin 1/10000  Prefilled Syring,SH05A,,,,Injection Store
+13,Adrenaline 1mg/Ml Ampoule,SH04A,,,,Injection Store
+14,Aflibercept 2mg (Eylea) Injection,,,,,Injection Store
+15,Alfacalcidol 1mcg/Ml (One Alpha) Injection,,,,,Injection Store
+16,Alfacalcidol 2mcg/Ml (One Alpha) Injection,BF04B,,,,Injection Store
+17,Alirocumab 150mg/Ml (Praluent) Injection,,,,,Injection Store
+18,Alirocumab 75mg/Ml (Praluent) Injection,SF02A,SF02B,,,Injection Store
+19,Alprostadil (Prostin V.R) Iv Infusion,,,,,Injection Store
+20,Alteplase 50mg (Actilyse) Iv Infusion,SH01A,,,,Injection Store
+21,Ambisome 50mg (Amphotericin B Liposomal) Injection,,,,,Injection Store
+22,Amikacin 100mg Injection,SH31A,,,,Injection Store
+23,Amikacin 500mg Injection,SH31C,,,,Injection Store
+24,Amino Acid 10% 250ml Infusion,SH52D,SH53D,,,Injection Store
+25,Amino Acid 10% 500ml Infusion,SH52B,SH53B,,,Injection Store
+26,Amino Acid Peadiatric 100ml Infusion,SH52A,SH53A,,,Injection Store
+27,Amino Caproic Injection,SH19A,,,,Injection Store
+28,Aminophyllin 250mg/10ml Vial,SH22C,,,,Injection Store
+29,Amiodarone 150mg/3ml (Cordaron)  Ampoule,SH03D,,,,Injection Store
+30,Ammonul 10%/10% Injection,SH16A,,,,Injection Store
+31,Ampicillin 1g Injection,SH31A,,,,Injection Store
+32,Ampicillin 250mg Injection,SH31B,,,,Injection Store
+33,Ampicillin 500mg Injection,SH31B,,,,Injection Store
+34,Anakinra 100mg (Kineret) Prefilled Syring,,,,,Injection Store
+35,Anidulafungin 100mg (Eraxis-Ecalta) Infusion,,,,,Injection Store
+36,Anti-D Immunoglobulin 300mcg Syring,,,,,Injection Store
+37,Anti-Hemophilic Factor 1000u Injection,,,,,Injection Store
+38,Anti-Hemophilic Factor 250u Injection,,,,,Injection Store
+39,Anti-Hemophilic Factor 500u Injection,,,,,Injection Store
+40,Antiscorpion Serum,BF04B,,,,Injection Store
+41,Anti-Snake Serum 10ml,BF04B,,,,Injection Store
+42,Arginine Hcl  21% 20ml,,,,,Injection Store
+43,Arginine Hcl 10% 300ml,SH20A,,,,Injection Store
+44,Artesunate 60mg Im/Iv Injection,,,,,Injection Store
+45,Atosiban 7.5mg/Ml 0.9ml (Tractocile) Iv Infusion,BF01B,,,,Injection Store
+46,Atosiban 7.5mg/Ml 5ml (Tractocile) Iv Infusion,BF01B,,,,Injection Store
+47,Atropine Sulphate 0.1mg/Ml-10ml Prefilled Syring,SH03C,,,,Injection Store
+48,Atropine Sulphate 1mg/Ml Ampoule,SH01D,,,,Injection Store
+49,Augmentin 1.2g Injection,SH31B,,,,Injection Store
+50,Belimumab 120mg (Benlysta) Injection,,,,,Injection Store
+51,Belimumab 400mg (Benlysta) Injection,,,,,Injection Store
+52,"Benzathine Penicillin 1,200,000 Iu Injection",SH32A,,,,Injection Store
+53,Benztropine 1mg/Ml (Cogentin) Injection,,,,,Injection Store
+54,Bevacizumab 100 Mg (Avastin)  Inj.,BF07A,,,,Injection Store
+55,Bevacizumab 400 Mg (Avastin)  Inj.,BF08A,,,,Injection Store
+56,Biotin 5mg/Ml (Vitamin H) Injection,SH21B,,,,Injection Store
+57,Bivalirudin 250mg (Angiomax) Iv Only Injection,,,,,Injection Store
+58,Bleomycin Hcl 15mg,,,,,Injection Store
+59,Botulinium Toxin A 100 Iu (Botox) Injection,,,,,Injection Store
+60,Botulinium Toxin-A 500u (Dysport) Injection,,,,,Injection Store
+61,Brinavess 20mg/Ml (Vernakalant) Injection,SH03C,,,,Injection Store
+62,Bupivacain Hcl 0.25% Injection,SH15B,,,,Injection Store
+63,Bupivacain Hcl 0.5% Injection,SH15B,,,,Injection Store
+64,Bupivacain Hcl Heavy Injection,SH15D,,,,Injection Store
+65,Caffeine 20mg/1ml Vial (Peyona),SH12B,,,,Injection Store
+66,Caffeine Citrate 25mg/2ml Vial,,,,,Injection Store
+67,Calcitonin 100 Iu/Ml Ampoule,,,,,Injection Store
+68,Calcium Chloride 11meq/10ml Injection Iv Only,CP03E,,,,Injection Store
+69,Calcium Folinate 50mg Injection,BF01C,,,,Injection Store
+70,Calcium Gluconate 10% W/V-10ml Injection,CP03A,,,,Injection Store
+71,Canakinumab 150mg (Ilaris) Vial,,,,,Injection Store
+72,Carbachol 0.01% (Miostat) Injection,SH16B,,,,Injection Store
+73,Carbetocin 100mcg/Ml (Pabal) Injection,SH08B,,,,Injection Store
+74,Carboprost Tromethamine 250mcg/1ml( Hemabate) Injection Im Only,,,,,Injection Store
+75,Carnitin 1gm Injection,SH19A,,,,Injection Store
+76,Caspofungin 50mg  Injection,,,,,Injection Store
+77,Caspofungin 70mg Injection,,,,,Injection Store
+78,Cefazoline 1g (Intrazoline) Injection,SH36B,,,,Injection Store
+79,Cefazoline 2g (Intrazoline) Injection,,,,,Injection Store
+80,Cefepim 1g (Maxipime) Injection,SH33C,,,,Injection Store
+81,Cefotaxime 1g (Claforan) Injection,SH35B,,,,Injection Store
+82,Ceftaroline Fosamil 600mg (Zinforo) Iv Infusion,,,,,Injection Store
+83,Ceftazidime 1g (Fortum) Injection,,,,,Injection Store
+84,Ceftazidime 2g (Fortum) Injection,SH32C,,,,Injection Store
+85,Ceftriaxone 1g (Rocephin) I.V. Injection,SH34B,SH34C,SH34D,,Injection Store
+86,Ceftriaxone 500mg (Rocephin) I.M. Injection,SH32C,,,,Injection Store
+87,Cefuroxime Sodium 750mg (Zinacef) Injection,SH44B,,,,Injection Store
+88,Certolizumab 200mg (Cimzia) Prefilled Syring,BF08A,,,,Injection Store
+89,Cetrorelix 0.25mg (Cetrotide) Injection,,,,,Injection Store
+90,Chlorpheniramine 10mg (Piriton) Ampoule,SH23C,,,,Injection Store
+91,Chlorpromazine 25mg/2ml (Largactil) Ampoule,SH14A,,,,Injection Store
+92,Chorionic Gonadotrophin 5000u (Pregnyl) Ampoule,BF01A,BF01B,,,Injection Store
+93,Chorionic Gonadotrophin1500u (Pregnyl) Ampoule,,,,,Injection Store
+94,Cinryze 500 Iu (Berinert) Injection,,,,,Injection Store
+95,Ciprofloxacin 200mg Injection,SH33A,SH33B,SH33D,,Injection Store
+96,Cisatracurium 10mg/5ml (Nimbex) Injection,,,,,Injection Store
+97,Cisatracurium 20mg/10ml (Nimbex) Injection,BF03D,,,,Injection Store
+98,Cisatracurium 5mg/2.5ml (Nimbex) Injection,,,,,Injection Store
+99,Clarithromycin 500mg (Klacid) Injection,SH40C,,,,Injection Store
+100,Clindamycin 300mg (Dalacin) Injection,SH36B,,,,Injection Store
+101,Clindamycin 600mg (Dalacin) Injection,SH36D,,,,Injection Store
+102,Clonidine 0.15mcg/Ml (Catapres) Injection,SH02A,,,,Injection Store
+103,Cloxacillin 250mg Injection,SH32D,,,,Injection Store
+104,Colaginase Colistridium (Xiapex-Xiaflex) Injection,,,,,Injection Store
+105,Colistimethate 150mg Injection,SH32B,,,,Injection Store
+106,Colomycin 1 Million Iu Injection,,,,,Injection Store
+107,Co-Trimoxazole 400/80mg (Septrin) Injection,SH35C,,,,Injection Store
+108,Covid 19 Vaccine Vial,,,,,Injection Store
+109,Cyclophosphamide 1g Vial (Endoxan),SH23C,,,,Injection Store
+110,Danaproid (Orgaran) Injection,CP02E,,,,Injection Store
+111,Dantrolene Sodium 20mg Injection,SH12C,,,,Injection Store
+112,Darbepoetin Alpha 20mcg/.5ml (Aranesp) Prefilled Syring,,,,,Injection Store
+113,Darbepoetin Alpha 40mcg/0.4ml (Aranesp) Prefilled Syring,BF04C,,,,Injection Store
+114,Darbepoetin Alpha 100mcg/0.4ml (Aranesp) Prefilled Syring,BF05A,,,,Injection Store
+115,Darbepoetin Alpha 500mcg/0.4ml (Aranesp) Prefilled Syring,,,,,Injection Store
+116,Darbepoetin Alpha 60mcg/0.3ml (Aranesp) Prefilled Syring,BF04C,,,,Injection Store
+117,Denosumab 60mg (Prolia) Injection,BF05B,,,,Injection Store
+118,Desferroxamine 0.5gm (Desferal) Injection,SH18A,,,,Injection Store
+119,Desmopressin (Minirin) Injection,,,,,Injection Store
+120,Dexamethasone 0.7mg (Ozurdex) Injection,,,,,Injection Store
+121,Dexamethasone 4mg/Ml (Decadron) Ampoule,SH05B,,,,Injection Store
+122,Dexmedetomidin200mcg/2ml (Precedex) Injection,SH12B,,,,Injection Store
+123,Diclofenac Sodium 75mg/3ml (Olfen) Ampoule,SH07C,,,,Injection Store
+124,Digibind 38mg Ampoule,,,,,Injection Store
+125,Digoxin 500mcg/2ml Ampoule,SH03B,,,,Injection Store
+126,Dinoprostone 5mg (Prostin) Injection,,,,,Injection Store
+127,Diphenhydramine Hcl 50mg/Ml Ampoule,,,,,Injection Store
+128,Dipyridamole 10mg/2ml (Persantin) Injection,,,,,Injection Store
+129,Disodium Pamidronate  90mg Vial,SH02B,,,,Injection Store
+130,Disodium Pamidronate 30mg (Aredia)  Injection,SH02B,,,,Injection Store
+131,Dobutamine Hcl 250mg/20ml Vial,SH01C,,,,Injection Store
+132,Dopamine Hcl 200mg/5ml Injection,SH01C,,,,Injection Store
+133,Dulaglutide 1.5 Mg(Trulicity) Injection,BF07B,,,,Injection Store
+134,Dupixent 300mg/2ml (Dupilumab) Injection,,,,,Injection Store
+135,Eloctate 1000 Iu Vial Iv Injection,,,,,Injection Store
+136,Elosulfase Enzyme 5mg/5ml (Vimizim) Ampoule,,,,,Injection Store
+137,Enbrel 50mg (Myclic ) Pen,BF02A,BF09A,,,Injection Store
+138,Enoxaparin 0.2ml (Clexane) Prefilled Syring,SH29A,SH30A,,,Injection Store
+139,Enoxaparin 0.4ml (Clexane) Prefilled Syring,SH29B,SH30B,,,Injection Store
+140,Enoxaparin 0.6ml (Clexane) Prefilled Syring,SH29C,SH30C,,,Injection Store
+141,Enoxaparin 0.8ml (Clexane) Prefilled Syring,SH29D,SH30D,,,Injection Store
+142,Ephedrine 30mg/Ml Ampoule,SH02A,,,,Injection Store
+143,Epinephrine 300mcg (Epipen) Pen,SH01B,,,,Injection Store
+144,Epinephrine Junior 150mcg (Epipen) Pen,SH01B,,,,Injection Store
+145,Epirubicin 50mg (Ebewe) Vial,BF01C,,,,Injection Store
+146,Epoprostenol Sodium 500ug (Flolan) Injection,SH02B,,,,Injection Store
+147,Erenumab 70mg (Aimovig) Prefilled Syring,,,,,Injection Store
+148,Ertapenem 1g (Invanz) Injection,SH36B,,,,Injection Store
+149,Esmolol 100mg/10ml (Brevibloc) Injection,SH03A,,,,Injection Store
+150,Esomeprazol 40mg (Nexium) Vial,,,,,Injection Store
+151,Etamsylate 250mg/2ml (Dicynon)  Ampoule,SH19B,,,,Injection Store
+152,Etanercept 25mg (Enbrel) Prefilled Syring,,,,,Injection Store
+153,Etanercept 50mg (Enbrel) Prefilled Syring,BF09B,,,,Injection Store
+154,Etelcalcetide 5mg/Ml (Parsabiv) I.V,,,,,Injection Store
+155,Ethanolamine Oleate 5% Injection,SH02D,,,,Injection Store
+156,Etomidate 2mg/Ml/10ml Injection,,,,,Injection Store
+157,Evolocumab 140mg/Ml (Repatha) Injection,,,,,Injection Store
+158,Exenatide 2mg (Bydureon)  Injection,BF08A,,,,Injection Store
+159,Eye Vision Blue Syring,SH16A,,,,Injection Store
+160,Factor Vii 1mg (Novoseven) Vial,,,,,Injection Store
+161,Feiba 1000 Iu Vial,,,,,Injection Store
+162,Ferric Carboxymaltose 50mg/Ml/10ml (Ferinject) Infusion Vial,CP02C,CP02D,CP02E,,Injection Store
+163,Filgrastin 0.3mg (Neupogen) Injection,BF01C,,,,Injection Store
+164,Flucloxacillin 250mg Injection,SH36C,,,,Injection Store
+165,Flucloxacillin 500mg Injection,SH35D,,,,Injection Store
+166,Fluconazol 200mg (Diflucan) Injection,SH6C,,,,Injection Store
+167,Flumazenil 0.5mg/5ml (Anexate) Ampoule,SH14B,,,,Injection Store
+168,Flurescein Sod 200mg/1ml. Ampoule,SH16A,,,,Injection Store
+169,Follitropin 150 Iu Pfs,,,,,Injection Store
+170,Follitropin 75 Iu Pfs,,,,,Injection Store
+171,Follitropin Alfa 450 Iu (Gonal F) Pen,BF09B,,,,Injection Store
+172,Follitropin Alfa 75 Iu (Gonal F) Pen,BF06B,,,,Injection Store
+173,Fondaparinux 2.5mg (Arixtra) Pfs,SH18B,,,,Injection Store
+174,Fungizone 50mg (Amphotericin) Injection,,,,,Injection Store
+175,Furosemide 20mg/2ml (Lasix) Ampoule,SH02C,SH09C,SH09D,,Injection Store
+176,Furosemide 250mg/25ml (Lasix) Ampoule,SH02B,,,,Injection Store
+177,Ganciclovir 500mg (Cymeven) Iv Injection,SH39C,,,,Injection Store
+178,Genotropin 5.3mg/Ml Cartridge,,,,,Injection Store
+179,Genotropin Device,,,,,Injection Store
+180,Gentamicin 20mg/Ml Injection,SH39B,,,,Injection Store
+181,Gentamicin 80mg/Ml Injection,SH39A,,,,Injection Store
+182,Glucagon 1mg Injection,BF06C,,,,Injection Store
+183,Glyceryl Trinitrate 50mg/10ml (Tridil) Injection,SH01C,,,,Injection Store
+184,Glycopyrolate Injection,SH09A,,,,Injection Store
+185,Golimumab 50mg (Simponi) Injection,,,,,Injection Store
+186,Gonal-F 225 Iu Pen,,,,,Injection Store
+187,Goserelin 3.6mg (Zoladex) Injection,CP02C,,,,Injection Store
+188,Goserlin Acetate La 10.8 Mg (Zoladex) Injection,CP02B,,,,Injection Store
+189,Growth Hormon 12mg/1.5ml (Saizen Easybod) Pen,BF09B,,,,Injection Store
+190,Guselkumab 100mg/Ml (Tremfya) Pfs,SF02B,,,,Injection Store
+191,Haemate P 250 Injection,,,,,Injection Store
+192,Haloperidol 5mg/Ml (Haldol) Ampoule,SH15A,,,,Injection Store
+193,Heparin 100 I.U/Ml/10ml (Leo) Ampoule,,,,,Injection Store
+194,Heparin 25000 I.U/5ml Vial,SH49C,,,,Injection Store
+195,Heparin Mini 5000 I.U/Ml Ampoule,,,,,Injection Store
+196,Hepatitis B Vaccine Adults 1ml,,,,,Injection Store
+197,Hepatitis B Vaccine Pediatrics One Dose,BF04D,,,,Injection Store
+198,Hepatitis B Immunoglobulin 180iu/Ml Injection,BF04D,,,,Injection Store
+199,Human Albumin 100ml Injection,SH19C,SH19D,,,Injection Store
+200,Human Albumin 50ml Injection,SH20C,SH20D,,,Injection Store
+201,Human Fibrinogen (Clottafact) Injection,,,,,Injection Store
+202,Human Hemin 25mg/Ml,,,,,Injection Store
+203,Humilin R 300iu/3ml  Cartridges,BF07C,,,,Injection Store
+204,Humilin R Pen Device,CP02D,,,,Injection Store
+205,Hyaluronate 20mg/2ml (Hyalgan) Prefilled Syring,CP02A,,,,Injection Store
+206,Hyaluronate Sod. 1% 0.5ml (Provisc) Prefilled Syring,,,,,Injection Store
+207,Hyaluronate Sod. 3% 0.5ml(Viscoat)  Prefilled Syring,,,,,Injection Store
+208,Hyaluronidase 15000 Iu (Hyalase) Prefilled Syring,,,,,Injection Store
+209,Hydralazine 20mg (Apresolin) Injection,SH01B,,,,Injection Store
+210,Hydrocortisone 100mg/Ml Vial,SH05C,,,,Injection Store
+211,Hydroxy Ethyl Starch 6% (Hestril-Voluven) Injection,SH51C,,,,Injection Store
+212,Hydroxyprogesterone 250mg (Primolut Depot) Injection,CP02B,,,,Injection Store
+213,Hyosine 20mg/Ml (Buscopan) Ampoule,SH24C,,,,Injection Store
+214,Ibandronic Acid 3mg/3ml (Bonviva) Ampoule,,,,,Injection Store
+215,Ibuprofen (Pedia) 5mg/Ml-2ml (Brufen) Ampoule,SH08A,,,,Injection Store
+216,Ibuprofen 400mg (Brufen) Iniection,SH08B,,,,Injection Store
+217,Idarucizumab 50mg/Ml (Praxbind) Injection,,,,,Injection Store
+218,Imipenem 500mg (Tienam) Injection,,,,,Injection Store
+219,Immunoglobulin 2.5g (Intraglobulin) Infusion,SH18C,SH18D,,,Injection Store
+220,Immunoglobulin 5gm (Intraglobulin) Infusion,SH17D,,,,Injection Store
+221,Indomethacin Injection,,,,,Injection Store
+222,Infliximab Recombinant (Remicade) Injection,BF08B,,,,Injection Store
+223,Insulin (R)  (Actrapid) Vial,BF02C,,,,Injection Store
+224,Insulin 30/70 ( Mixtard) Vial,BF02C,,,,Injection Store
+225,Insulin Degludec (Tresiba) Pen,BF05D,,,,Injection Store
+226,Insulin Detemir ( Levemir ) Pen,BF07D,,,,Injection Store
+227,Insulin Glargine 300 Iu/Ml/Ml(Toujeo) Pen,BF06C,,,,Injection Store
+228,Insulin Glustin (Apidra) Pen,BF06C,,,,Injection Store
+229,Insulin Lispro (Humalog ) Pen,BF07D,,,,Injection Store
+230,Insulin Lispro Mix 25/75 100iu/Ml (Humalog Mix) Pen,BF06D,,,,Injection Store
+231,Insulin Lispro Mix 50/50 100ui/Ml ( Humalog Mix) Pen,BF08C,,,,Injection Store
+232,Insulin N (Insulatard) Vial,BF02C,,,,Injection Store
+233,Insulin Needle 31g X 6mm,SH26D,SH27D,,,Injection Store
+234,Insulin Needle 5mm,SH26A,SH26B,SH27A,SH27B,Injection Store
+235,Insulin Solostar ( Lantus ) Pen,BF07A,,,,Injection Store
+236,Insulin Solostar ( Lantus ) Vial,BF03C,,,,Injection Store
+237,Insulin Ultra Short (Novo Rapid) Vial,BF03C,,,,Injection Store
+238,Insulin Ultra Short (Novorapid) Pen,BF08C,,,,Injection Store
+239,Interferon  Alpha 2a 3million Vial,,,,,Injection Store
+240,Interferon Beta 30mcg/Ml (Avonex) Injection,,,,,Injection Store
+241,Interferon Beta-1a (Rebif 22mcg) 6m.U,,,,,Injection Store
+242,Interferon Beta-1a 44mcg (Rebif M Dose) 4crt,,,,,Injection Store
+243,Interferon-Beta-1a (Rebif 44mcg) 12m.U,,,,,Injection Store
+244,Iron Succinate (Ferosac) Injection I.V.,SH22D,,,,Injection Store
+245,Isoprenaline  (Isuprel)  Injection,SH22D,,,,Injection Store
+246,Ixekizumab 80 Mg (Taltz) Prefilled Syring,,,,,Injection Store
+247,Ketamine Hcl 250mg/5ml Injection,SH12B,,,,Injection Store
+248,Ketamine Hcl 500mg/10ml Injection,,,,,Injection Store
+249,Kogenate 1000 Iu (Rec.Factor 8) Injection,,,,,Injection Store
+250,Kogenate 500 Iu (Rec.Factor 8) Injection,,,,,Injection Store
+251,Labetalol Hcl 100mg/20ml (Trandate) Injection,SH06B,,,,Injection Store
+252,Lacosamide 10mg/1ml (Vimpat) Injection,SH11A,,,,Injection Store
+253,Laronidase 100 Iu/Ml/5ml (Aldurazyme) Ampoule,,,,,Injection Store
+254,Leuprolide 3.75mg (Lupron) Injection,CP02B,,,,Injection Store
+255,Leuprorlide 22.5mg (Lupron) Injection,,,,,Injection Store
+256,Leuprorolide 11.25 Mg (Lupron) Injection,CP02E,,,,Injection Store
+257,Levetiracetam 500mg/5ml (Keppra) Injection,SH13A,,,,Injection Store
+258,Levobubivacain 5mg/Ml (Chirocaine) Injection,SH15B,,,,Injection Store
+259,Levofloxacin 500mg/100ml (Tavanic) Injection,,,,,Injection Store
+260,Levosimendan 2.5mg/Ml (Simdax) Injection,BF02B,,,,Injection Store
+261,Lidocaine 1% 20ml Ampoule,SH15C,,,,Injection Store
+262,Lidocaine 2% 50 Ml Ampoule,SH14D,,,,Injection Store
+263,Lidocaine 4% Solution,,,,,Injection Store
+264,Lidocaine Press. Free 2% 20ml,SH14C,,,,Injection Store
+265,"Lignocaine, Adrenaline La 2% 1.8ml Injection",SH15C,,,,Injection Store
+266,Linezolid 600mg/300ml (Zyvox) Injection,SH56A,SH56B,SH56C,,Injection Store
+267,Lipid 10% 100ml  Infusion,,,,,Injection Store
+268,Lipid 10% 500ml Infusion,,,,,Injection Store
+269,Lipid 20% 100ml Infusion,SH50A,,,,Injection Store
+270,Lipid 20% 500ml  Infusion,SH51C,,,,Injection Store
+271,Liraglutide 6mg/Ml 3ml (Victoza)  Pen,BF09C,BF09D,,,Injection Store
+272,Magnesium Sulphate 10-20% Injection 0.8ml/Eq/Ml Ampoule,CP03B,,,,Injection Store
+273,Magnesium Sulphate 50% 2.5g/5ml Ampoule,CP03D,,,,Injection Store
+274,Mannitol 10% 500ml Infusion,SH52C,,,,Injection Store
+275,Mannitol 20% 500ml Infusion,,,,,Injection Store
+276,Menotropins (Fsh/Lh) 75 U (Humegon) Injection,CP02A,,,,Injection Store
+277,Mepolizumab 100mg (Nucala) Vial,,,,,Injection Store
+278,Meropenem 0.5g (Meronem) Injection,,,,,Injection Store
+279,Meropenem 1gm(Meronem) Injection,SH41A,SH41B,,,Injection Store
+280,Methotrexate 15mg Pf.Syring,SH23C,,,,Injection Store
+281,Methotrexate 20mg Pf.Syring,SH23B,,,,Injection Store
+282,Methotrexate 25mg Pf.Syring,SH23C,,,,Injection Store
+283,Methotrexate 50mg/2ml Vial,SH23B,,,,Injection Store
+284,Methyl Ergometrin (Methergin) Injection,,,,,Injection Store
+285,Methylene Blue Injection,SH22B,,,,Injection Store
+286,Methylprednisolone 125mg (Solu-Medrol) Injection,,,,,Injection Store
+287,Methylprednisolone 1gm (Solu Medrol) Injection,SH04D,,,,Injection Store
+288,Methylprednisolone 40mg (Depo Medrol) Injection,SH03D,,,,Injection Store
+289,Methylprednisolone 40mg (Solu-Medrol) Injection,SH04C,,,,Injection Store
+290,Methylprednisolone 500mg (Solu Medrol) Injection,SH04C,,,,Injection Store
+291,Metoclopramide 10mg/2ml (Primperan) Ampoule,SH16D,,,,Injection Store
+292,Metronidazole 500mg (Flagyl) Injection,SH37A,SH38A,,,Injection Store
+293,Milrinone 10mg (Primacor) Injection,SH03B,,,,Injection Store
+294,Mircera 100mcg/0.3ml  Prefilled Syring,BF04B,,,,Injection Store
+295,Mircera 150mcg  Prefilled Syring,BF04B,,,,Injection Store
+296,Mircera 200mcg  Prefilled Syring,BF04B,,,,Injection Store
+297,Moxifloxacin 400mg/250ml (Avalox) Injection,SH40B,,,,Injection Store
+298,Multivitamins For Pediatric Tpn,,,,,Injection Store
+299,Naloxone 0.4mg/Ml (Narcan) Ampoule,SH13B,,,,Injection Store
+300,Natalizumab 300mg/15ml (Tysabri) Injection,,,,,Injection Store
+301,Needles Growth Hormon 8mm,SH26C,SH27C,,,Injection Store
+302,Neostigmine Injection,,,,,Injection Store
+303,Noradrenalin Injection 4mg/4ml (Levofed) Ampoule,SH04B,,,,Injection Store
+304,Norditropin 5mg/1.5ml (Nordilet) Pen,BF04A,BF05A,,,Injection Store
+305,Novo Pen Device 4,CP02D,,,,Injection Store
+306,Novomix Flexpen 100iu/Ml,BF07C,,,,Injection Store
+307,Nusinersen 12mg (Spinraza) Injection,,,,,Injection Store
+308,Ocrelizumab 300mg/10ml (Ocrevus) Vial,,,,,Injection Store
+309,Octreotide 100mcg (Sandostatin) Injection,,,,,Injection Store
+310,Octreotide L.A.R. 30mg (Sandostatin) Injection,BF08B,,,,Injection Store
+311,Omalizumab 150 Mg  (Xolair) Injection,BF08C,,,,Injection Store
+312,Omeprazole 40mg (Losec) Vial,SH24B,,,,Injection Store
+313,Ondansetron 4mg (Zofran) Injection,SH25C,,,,Injection Store
+314,Ondansetron 8mg (Zofran) Injection,SH24D,,,,Injection Store
+315,Orencia  250mg(Abatacept) Vial,BF08A,,,,Injection Store
+316,Orencia 125mg  (Abatacept) Sc.Ingection,,,,,Injection Store
+317,Orgalutran 25mcg/0.5ml (Ganirelix) P.F.Syring,,,,,Injection Store
+318,Ornithine Aspartate 5g/10ml  (Hepa-Merz) Injection,SH19A,,,,Injection Store
+319,Orphenadrine 30mg/Ml (Norflex) Ampoule,SH08C,,,,Injection Store
+320,Oxytocin 10u (Syntocinon) Injection,,,,,Injection Store
+321,Oxytocin 5u (Syntocinon) Injection,,,,,Injection Store
+322,Palivizumab (Synagis) Injection,,,,,Injection Store
+323,Pancuronium Br.4mg/2ml (Pavulon) Injection,,,,,Injection Store
+324,Paracetamol 1gm (Perfelgan) Infusion,,,,,Injection Store
+325,Parecoxib 40mg (Dynastate) Injection,SH10B,,,,Injection Store
+326,Paricalcitol 5mcg /Ml ( Zemplar) Ingection,SH20B,,,,Injection Store
+327,Peginterferon 125mcg (Plegridy) Injection,,,,,Injection Store
+328,Peginterferon 63-94mcg (Plegridy) Pen,,,,,Injection Store
+329,Penicillin Crystalline 1 Million Unit Injection,SH32A,,,,Injection Store
+330,"Pentaglobulin 10ml (Iga,Igg,Igm) Injection",,,,,Injection Store
+331,Phenylephrine 10mg/Ml Iv Ampoule,SH01B,,,,Injection Store
+332,Phenytoin 250mg/5ml (Epanutin) Ampoule,SH11A,,,,Injection Store
+333,Phospholipid 27mg/5ml (Bles) Injection,,,,,Injection Store
+334,Potassium Chloride 15% 20meq/10ml Ampoule,CP01A,CP01B,,,Injection Store
+335,Potassium Chloride 4% 2.65mmol/5ml Ampoule,,,,,Injection Store
+336,Potassium Phosphate 66meq(K)+45meq(Po4) /15ml Injection,CP03E,,,,Injection Store
+337,Pralidoxime 1g Injection,,,,,Injection Store
+338,Prochlorperazine 12.5mg (Stemetil) Injection,SH15A,,,,Injection Store
+339,Promethazine 25mg/Ml (Phenergan) Ampoule,SH23D,,,,Injection Store
+340,Propofol 20ml (Diprivan) Injection,,,,,Injection Store
+341,Propofol 50ml (Diprivan) Injection,,,,,Injection Store
+342,Propranolol Hcl (Inderal) Injection,SH03C,,,,Injection Store
+343,Protamine Sulphate 200mg/5ml Ampoule,SH18A,,,,Injection Store
+344,Protein C Concentrate Injection,,,,,Injection Store
+345,Pulm. Surfactant Injection,,,,,Injection Store
+346,Ranibizumzb (Lucentis) Injection,,,,,Injection Store
+347,Ranitdine 50mg(Zantac) Injection,,,,,Injection Store
+348,Rasburicase 1.5mg/5ml Injection,,,,,Injection Store
+349,Rasburicase 7.5mg/5ml Injection,,,,,Injection Store
+350,Remdesivir 100mg Injection,SH31D,,,,Injection Store
+351,Restylane Perlane 20mg Injection,,,,,Injection Store
+352,Reteplase 10iu (Rapilysin) Injection,,,,,Injection Store
+353,Rifampicin 600mg (Rifadin) Injection,SH45B,,,,Injection Store
+354,Rituximab 100mg/10ml( Mabthera) Injection,,,,,Injection Store
+355,Rituximab 500mg/50ml( Mabthera) Injection,,,,,Injection Store
+356,Rocuronium (Esmeron) Injection,,,,,Injection Store
+357,Romiplostim 250mcg (N-Plate) Vial,BF08B,,,,Injection Store
+358,Salbutamol 0.5mg/Ml (Ventolin) Injection,SH21D,,,,Injection Store
+359,Saline 10%W/V 500ml Infusion,SH51D,,,,Injection Store
+360,Saline Hypertonic 3% 500ml (Sodium Chloride) Infusion,SH49A,,,,Injection Store
+361,Secukinumab 150mg/Ml (Cosentyx) Pen,,,,,Injection Store
+362,Sodium Benzoate 1g/5ml Injection,SH18A,,,,Injection Store
+363,Sodium Bicarbonate 8.4%(50meq/50ml) Injection,CP01B,,,,Injection Store
+364,Sodium Nitroprusside 50mg/2ml (Nipride) Injection,,,,,Injection Store
+365,Sodium Phosphate 45mmol/15ml Ampoule,CP03B,,,,Injection Store
+366,Sodium Thiosulfate 250mg/Ml Injection,SH17A,,,,Injection Store
+367,Somatostatin 250mcg Ampoule,,,,,Injection Store
+368,Somatostatin 3mg Ampoule,SH20A,,,,Injection Store
+369,Streptomycin 1g Injection,,,,,Injection Store
+370,Sugammadex 500mg/100ml (Bridion) Injection,BF14B,,,,Injection Store
+371,Sumatriptan Succ. 6mg (Imigran-Sc.) P.F.S,SH09B,,,,Injection Store
+372,Suxamethonium 100mg/2ml (Scolin) Vial,,,,,Injection Store
+373,Synactin  1mg (Acth) Ampoule,,,,,Injection Store
+374,Synactin 0.25 Mg (Acth) Ampoule,,,,,Injection Store
+375,"Tazocin 2.25 Gm (Piperacillin,Tazobactam) Injection",SH42B,,,,Injection Store
+376,"Tazocin 4.5 Gm (Piperacillin,Tazobactam) Injection",SH43A,,,,Injection Store
+377,Teicoplanin 200mg (Targocid) Injection,SH39B,,,,Injection Store
+378,Tenecteplase (Metalyse) Injection,,,,,Injection Store
+379,Teriparatide 20mcg/80mcg (Forteo) Injection,BF05C,,,,Injection Store
+380,Terlippressin 1mg (Glypressin) Injection,,,,,Injection Store
+381,Testosteron 250mg Ampoule,CP02D,,,,Injection Store
+382,Testosterone Undecanoate (Nebido) Im Injection,,,,,Injection Store
+383,Tetanus Immunoglobulin Injection,BF04D,,,,Injection Store
+384,Tetanus Toxoid Vaccine 0.5ml,BF04D,,,,Injection Store
+385,Thrombax 15mg/1ml (Recombitant Hirudin) Injection,,,,,Injection Store
+386,Throtrophin R.H. 0.2mg/2ml (Protirelin) Injection,,,,,Injection Store
+387,Tigecycline 50mg (Tygacil) Injection,SH45D,,,,Injection Store
+388,Tinzaparin 10.000 I.U/0.5ml (Innoheparin) Syring,,,,,Injection Store
+389,Tinzaparin 3500 I.U/0.5ml (Innoheparin) Syring,,,,,Injection Store
+390,Tirofiban 0.25mg/Ml (Aggrastate) Injection,SH12C,,,,Injection Store
+391,Tobramycin 80mg/2ml Injection,SH36A,,,,Injection Store
+392,Tocilizumab 162mg  (Actemra) S.C Prefilled Syring,BF08C,,,,Injection Store
+393,Tocilizumab 200mg/10ml  (Actemra) Prefilled Syring,BF09B,,,,Injection Store
+394,Tocilizumab 400mg/20ml (Actemra) Prefilled Syring,BF09B,,,,Injection Store
+395,Trace Elements Adults (Addamel) Infusion Ampoule,SH22B,,,,Injection Store
+396,Trace Elements Pediatrics (Pediatrace) Infusion Ampoule,SH23B,,,,Injection Store
+397,Tranexamic Acid 500mg/5ml (Cyklokapron) Injection,SH19B,,,,Injection Store
+398,Triamcinolone Acetonide 40mg (Kenacort-A) Injection,SH02D,,,,Injection Store
+399,Triamicinolone 10mg (Kenalog) Injection,SH02D,,,,Injection Store
+400,Tridil 5000 (Gtn) Set,SH52B,,,,Injection Store
+401,Triptorelin 11.25mg (Diphereline)  Ampoule,,,,,Injection Store
+402,Triptorelin Acetate 0.1mg (Decapeptyl) Injection,BF09B,,,,Injection Store
+403,Trometamol 30mg/Ml (Ketrolac) Ampoule,,,,,Injection Store
+404,Tromethamine 3.6g/100ml Injection,,,,,Injection Store
+405,Tuberculin Test (Ppd) Vial,BF04D,,,,Injection Store
+406,Uromitexan   400mg/4ml (Mesna) Iv / Im / Infusion,SH23C,,,,Injection Store
+407,Ustekinumab 130mg (Stelara) Pf Syring,,,,,Injection Store
+408,Ustekinumab 45mg (Stelara) Pf Syring,,,,,Injection Store
+409,Ustekinumab 90mg (Stelara) Pf Syring,,,,,Injection Store
+410,Valganciclovir 450mg  (Valcyt) Tablet,,,,,Injection Store
+411,Valproic Acid 400mg (Depakin) Injection,SH12A,,,,Injection Store
+412,Vancomycin 500mg Injection,SH45A,,,,Injection Store
+413,Varicella Zoster Imm.Glob.,BF04D,,,,Injection Store
+414,Vasopressin 20 Unit Injection,,,,,Injection Store
+415,Vedolizumab 300mg (Entyvio) Injection,,,,,Injection Store
+416,Verapamil 5mg/2ml (Isoptin) Ampoule,SH03A,,,,Injection Store
+417,Vitalipid Infant Infusion,SH22B,,,,Injection Store
+418,"Vitamin (B1,B6,B12) Injection",SH21C,,,,Injection Store
+419,Vitamin B1 100mg/Ml (Thiamine) Ampoule,SH22B,,,,Injection Store
+420,Vitamin B12 (Cyanocobalamine) Injection,SH22B,,,,Injection Store
+421,Vitamin B12 Depot. 1mg/Ml Im/Iv (Hydroxycobalamine) Injection,SH22B,,,,Injection Store
+422,Vitamin C 20% Injection,SH21A,,,,Injection Store
+423,Vitamin D3 600'000 Iu Ampoule,,,,,Injection Store
+424,Vitamin E Injection,SH21B,,,,Injection Store
+425,Vitamin K 10mg  (Phytomenadione) Ampoule,SH22A,,,,Injection Store
+426,Vitamin K 2mg (Phytomenadione) Ampoule,SH23A,,,,Injection Store
+427,Vitamin Pyridoxine  Hcl 100mg/2ml (Vit.B6) Ampoule,SH21B,,,,Injection Store
+428,Voriconazole 200mg ( Vfend) Injection,SH45C,,,,Injection Store
+429,Water For Injection 5ml Ampoule,SH23D,,,,Injection Store
+430,Water Soluble Vitamines (Soluvit) Injection,SH21A,,,,Injection Store
+431,Wilfactin 1000 Iu (Vwf) Injection,SH10D,,,,Injection Store
+432,Xyntha   1000  Iu  Vial,,,,,Injection Store
+433,Xyntha 500 Iu (Recomb-Antiheamophilic Factor) Injection,,,,,Injection Store
+434,Zavicefta (Ceftazidime 2gm/Avibactam 0.5gm) Iv Infusion,CP02B,,,,Injection Store
+435,Zerbaxa (Ceftolozane 1g/Tazobactam 0.5g) Iv Infusion,,,,,Injection Store
+436,Zoledronic Acid 0.05mg/Ml 100ml (Aclasta) Injection,CP02A,,,,Injection Store

@@ -1,0 +1,30 @@
+[05-May-2021 18:30:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_stmt_get_result_() in /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/DbAuth.php:140
+Stack trace:
+#0 /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/reset-password.php(20): DbAuth->resetPwdSubmit('ea39343cc4d4b2e...', '1620239415', 'hvhjv')
+#1 {main}
+  thrown in /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/DbAuth.php on line 140
+[05-May-2021 18:30:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_stmt_get_result_() in /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/DbAuth.php:140
+Stack trace:
+#0 /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/reset-password.php(20): DbAuth->resetPwdSubmit('ea39343cc4d4b2e...', '1620239432', 'jhv')
+#1 {main}
+  thrown in /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/DbAuth.php on line 140
+[05-May-2021 18:30:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_stmt_get_result_() in /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/DbAuth.php:140
+Stack trace:
+#0 /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/reset-password.php(20): DbAuth->resetPwdSubmit('ea39343cc4d4b2e...', '1620239456', 'Mohammed')
+#1 {main}
+  thrown in /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/DbAuth.php on line 140
+[05-May-2021 18:32:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_stmt_get_result_() in /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/DbAuth.php:140
+Stack trace:
+#0 /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/reset-password.php(20): DbAuth->resetPwdSubmit('ea39343cc4d4b2e...', '1620239526', 'Mohammed')
+#1 {main}
+  thrown in /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/DbAuth.php on line 140
+[06-May-2021 06:46:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_stmt_get_result_() in /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/DbAuth.php:140
+Stack trace:
+#0 /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/reset-password.php(20): DbAuth->resetPwdSubmit('791af83e5c51aca...', '1620283580', 'M07ammed')
+#1 {main}
+  thrown in /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/DbAuth.php on line 140
+[06-May-2021 07:18:55 UTC] PHP Notice:  Undefined variable: validator in /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/DbAuth.php on line 145
+[06-May-2021 07:24:19 UTC] PHP Notice:  Undefined variable: validator in /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/DbAuth.php on line 145
+[06-May-2021 07:29:35 UTC] PHP Notice:  Undefined index: pwdRestEmail in /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/DbAuth.php on line 152
+[06-May-2021 07:31:41 UTC] PHP Notice:  Undefined index: pwdRestEmail in /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/DbAuth.php on line 152
+[06-May-2021 07:43:55 UTC] PHP Notice:  Undefined index: pwdRestEmail in /home/y34fu103a2iy/public_html/IOSRegistrationForm/includes/DbAuth.php on line 152
